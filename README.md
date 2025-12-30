@@ -1,10 +1,10 @@
-# Foresy API
+# RailsJwtAuth bootstrap API
 
 🚀 **Production Live:** https://foresy-api.onrender.com  
 🔒 **Security:** Stateless JWT, no token logging, no cookies  
 ⚡ **Stack:** Ruby 3.4.8 + Rails 8.1.1
 
-Foresy est une application Ruby on Rails API-only qui fournit une API RESTful robuste pour la gestion des utilisateurs avec authentification JWT et support OAuth (Google & GitHub).
+RailsJwtAuth bootstrap est une application Ruby on Rails API-only qui fournit une API RESTful robuste pour la gestion des utilisateurs avec authentification JWT et support OAuth (Google & GitHub).
 
 ## 🚀 Fonctionnalités
 
@@ -279,7 +279,7 @@ Endpoint d'échec OAuth (optionnel)
 1. **Cloner le repository**
    ```bash
    git clone <repository-url>
-   cd Foresy
+   cd RailsJwtAuth-bootstrap
    ```
 
 2. **Lancer l'application**
@@ -550,4 +550,4 @@ Ce projet est sous license MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
 
-**Foresy API** - Une API Rails moderne, sécurisée et entièrement testée pour la gestion d'utilisateurs avec OAuth et JWT. Développée avec les meilleures pratiques et prête pour la production.
+**RailsJwtAuth bootstrap API** - Une API Rails moderne, sécurisée et entièrement testée pour la gestion d'utilisateurs avec OAuth et JWT. Développée avec les meilleures pratiques et prête pour la production.
